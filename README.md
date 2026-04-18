@@ -82,7 +82,7 @@ anime-popularity-analysis/
 ![Most Rated](images/plot9_most_rated.png)
 
 ### Anime vs User Rating
-![Anime vs User](images/plot10_anime_ve_user.png)
+![Anime vs User](images/plot10_anime_vs_user.png)
 
 ### Correlation Heatmap
 ![Heatmap](images/plot11_heatmap.png)

@@ -57,17 +57,32 @@ anime-popularity-analysis/
 
 ## 📈 Visualizations
 
-### Rating Distribution
-![Rating Distribution](images/plot10_anime_ve_user.png)
-
 ### Top 10 Genres
 ![Top Genres](images/plot2_top_genres.png)
 
 ### Average Rating by Genre
 ![Avg Rating by Genre](images/plot3_avg_rating_genre.png)
 
+### Anime Type Distribution
+![Type Distribution](images/plot4_type_pie.png)
+
 ### Members vs Rating
-![Members vs Rating](images/plot5_members_vs_rating.p...)
+![Members vs Rating](images/plot5_members_vs_rating.png)
+
+### Popularity Tier Distribution
+![Popularity Tier](images/plot6_popularity_tier.png)
+
+### Episode Bucket Distribution
+![Episode Bucket](images/plot7_episode_bucket.png)
+
+### User Rating Distribution
+![User Rating](images/plot8_user_rating.png)
+
+### Most Rated Anime by Users
+![Most Rated](images/plot9_most_rated.png)
+
+### Anime vs User Rating
+![Anime vs User](images/plot10_anime_ve_user.png)
 
 ### Correlation Heatmap
 ![Heatmap](images/plot11_heatmap.png)
@@ -96,16 +111,25 @@ anime-popularity-analysis/
 
 ### SQL Query Screenshots
 
-![Q1](images/q1_top_rated.png)
-![Q2](images/q2_most_popular.png)
-![Q3](images/q3_avg_by_type.png)
-![Q4](images/q4_popularity_tier.png)
-![Q5](images/q5_episode_bucket.png)
-![Q6](images/q6_above_average.png)
-![Q7](images/q7_join_user_rating.png)
-![Q8](images/q8_join_difference.png)
-![Q9](images/q9_top3_per_type.png)
-![Q10](images/q10_percentile.png)
+| Q1 — Top Rated | Q2 — Most Popular |
+|---|---|
+| ![Q1](images/q1_top_rated.png) | ![Q2](images/q2_most_popular.png) |
+
+| Q3 — Avg by Type | Q4 — Popularity Tier |
+|---|---|
+| ![Q3](images/q3_avg_by_type.png) | ![Q4](images/q4_popularity_tier.png) |
+
+| Q5 — Episode Bucket | Q6 — Above Average |
+|---|---|
+| ![Q5](images/q5_episode_bucket.png) | ![Q6](images/q6_above_average.png) |
+
+| Q7 — Join User Rating | Q8 — Join Difference |
+|---|---|
+| ![Q7](images/q7_join_user_rating.png) | ![Q8](images/q8_join_difference.png) |
+
+| Q9 — Top 3 per Type | Q10 — Percentile Rank |
+|---|---|
+| ![Q9](images/q9_top3_per_type.png) | ![Q10](images/q10_percentile.png) |
 
 ---
 

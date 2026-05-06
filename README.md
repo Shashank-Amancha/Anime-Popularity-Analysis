@@ -186,15 +186,4 @@ GitHub
   - Portfolio ready
 ```
 
----
-
-## 👤 Author
-
-**Amancha Shashank**
-Data Science Student
-
-[GitHub Profile](https://github.com/Shashank-Amancha)
-
----
-
 *Project built as part of Data Science Portfolio — 2026*
